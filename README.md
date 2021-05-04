@@ -252,6 +252,10 @@ The Officer of Justice can put players with negative favor in jail, and can exec
 
 Costs 4 Time and significant Favor, Jail target player with negative favor
 
+#### Free
+
+Costs 4 Time, free target player
+
 #### Enact/Abolish: Restrictive Regulations
 
 Level 2. Costs 4 Time and significant Favor, jailed players cannot send communications.
