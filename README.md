@@ -108,8 +108,6 @@ Available when President. Costs 4 Time, and removes or adds favor based on the p
 
 Available when President. Costs 4 Time, and removes or adds favor based on the public opinion of chosen offices. Remove up to 2 target offices from the goverment.
 
-##### Abilities
-
 ### The Assassin
 
 The Assassin can slowly eliminate players from the game, but risks exposing their identity.
